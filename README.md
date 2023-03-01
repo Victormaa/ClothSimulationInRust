@@ -1,5 +1,4 @@
 # ClothSimulationInRust
-This is my Simulation Stuff Gi
 
 ## 首先展示一下效果图
 
